@@ -1,0 +1,308 @@
+Venue,pitch_type,humidity,temperature,boundary_straight,boundary_square
+Melbourne Cricket Ground,flat,50,20,75,78
+"Simonds Stadium, South Geelong",bouncy,60,18,65,68
+Adelaide Oval,batting friendly,55,25,70,72
+"Bready Cricket Club, Magheramason",seaming,70,15,62,64
+Harare Sports Club,slow,65,22,68,70
+McLean Park,seaming,75,18,66,69
+Bay Oval,flat,60,20,72,75
+Eden Park,bouncy,70,18,65,67
+The Rose Bowl,seaming,70,15,65,68
+County Ground,slow,60,18,67,70
+Sophia Gardens,seaming,75,15,65,68
+Riverside Ground,seaming,70,15,66,69
+Green Park,slow,60,30,65,67
+"Vidarbha Cricket Association Stadium, Jamtha",batting friendly,60,30,70,72
+M Chinnaswamy Stadium,batting friendly,60,28,65,67
+Greater Noida Sports Complex Ground,batting friendly,60,30,65,67
+Central Broward Regional Park Stadium Turf Ground,slow,70,28,68,70
+Dubai International Cricket Stadium,flat,50,30,75,78
+Sheikh Zayed Stadium,flat,55,30,72,75
+ICC Academy,batting friendly,60,30,65,67
+Sydney Cricket Ground,bouncy,60,20,65,68
+Bellerive Oval,seaming,75,15,65,68
+Westpac Stadium,seaming,70,15,66,69
+Seddon Park,seaming,75,15,65,68
+Mangaung Oval,slow,65,22,68,70
+Senwes Park,batting friendly,60,30,70,72
+"Kensington Oval, Bridgetown",seaming,75,25,65,68
+"Queen's Park Oval, Port of Spain",slow,70,28,68,70
+R Premadasa Stadium,batting friendly,60,30,70,72
+"Warner Park, Basseterre",slow,70,28,68,70
+"Sabina Park, Kingston",batting friendly,60,30,70,72
+"R.Premadasa Stadium, Khettarama",batting friendly,60,30,70,72
+Saxton Oval,flat,60,20,72,75
+Gaddafi Stadium,batting friendly,40,35,72,70
+JSCA International Stadium Complex,batting friendly,60,30,70,72
+Barsapara Cricket Stadium,batting friendly,60,30,65,67
+Edgbaston,seaming,70,18,65,68
+Old Trafford,seaming,75,15,65,68
+Arun Jaitley Stadium,batting friendly,60,30,70,72
+Saurashtra Cricket Association Stadium,slow,60,30,65,67
+Greenfield International Stadium,flat,60,20,72,75
+The Wanderers Stadium,bouncy,60,20,65,68
+SuperSport Park,seaming,70,18,66,69
+Newlands,seaming,75,18,66,69
+Barabati Stadium,batting friendly,60,30,70,72
+Holkar Cricket Stadium,slow,60,30,65,67
+Wankhede Stadium,batting friendly,60,28,65,67
+"Grange Cricket Club, Raeburn Place",seaming,70,15,65,68
+"Shere Bangla National Stadium, Mirpur",slow,70,28,68,70
+Sylhet International Cricket Stadium,seaming,75,25,65,68
+Sharjah Cricket Stadium,flat,50,30,75,78
+National Stadium,slow,70,28,68,70
+"The Village, Malahide",seaming,70,15,65,68
+Lord's,seaming,70,18,65,68
+Hazelaarweg,seaming,75,15,65,68
+Sportpark Het Schootsveld,seaming,75,15,65,68
+VRA Ground,flat,60,20,72,75
+Buffalo Park,seaming,70,18,66,69
+Carrara Oval,flat,60,20,72,75
+"Brisbane Cricket Ground, Woolloongabba",bouncy,60,20,65,68
+"Rajiv Gandhi International Cricket Stadium, Dehradun",batting friendly,60,30,70,72
+Rajiv Gandhi International Cricket Stadium,batting friendly,60,30,70,72
+Eden Gardens,slow,60,28,65,67
+Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,batting friendly,60,30,70,72
+"MA Chidambaram Stadium, Chepauk",slow,60,30,65,67
+"Darren Sammy National Cricket Stadium, St Lucia",slow,70,28,68,70
+"Warner Park, St Kitts",slow,70,28,68,70
+Tolerance Oval,slow,70,28,68,70
+Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,slow,60,30,65,67
+M.Chinnaswamy Stadium,batting friendly,60,28,65,67
+Bready,seaming,70,18,65,68
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 1),flat,50,30,75,78
+Amini Park,batting friendly,60,30,70,72
+Sportpark Maarschalkerweerd,seaming,75,15,65,68
+Manuka Oval,seaming,70,15,66,69
+Perth Stadium,bouncy,60,20,65,68
+Kyambogo Cricket Oval,seaming,75,25,65,68
+Lugogo Cricket Oval,seaming,75,25,65,68
+King George V Sports Ground,seaming,75,25,65,68
+College Field,seaming,70,18,66,69
+Kingsmead,seaming,70,18,66,69
+St George's Park,seaming,70,18,66,69
+Kinrara Academy Oval,slow,70,28,68,70
+"Punjab Cricket Association IS Bindra Stadium, Mohali",flat,60,30,72,75
+"Rajiv Gandhi International Stadium, Uppal",batting friendly,60,30,70,72
+Hagley Oval,seaming,70,15,65,68
+"Providence Stadium, Guyana",slow,70,28,68,70
+Indian Association Ground,batting friendly,60,30,70,72
+Sportpark Westvliet,seaming,75,15,65,68
+Pallekele International Cricket Stadium,slow,65,22,68,70
+Zahur Ahmed Chowdhury Stadium,flat,55,30,72,75
+"White Hill Field, Sandys Parish",slow,70,28,68,70
+Bermuda National Stadium,slow,70,28,68,70
+United Cricket Club Ground,batting friendly,60,30,70,72
+ICC Academy Ground No 2,batting friendly,60,30,65,67
+La Manga Club Bottom Ground,slow,65,25,68,70
+Maharashtra Cricket Association Stadium,batting friendly,60,30,70,72
+"National Cricket Stadium, Grenada",slow,70,28,68,70
+Desert Springs Cricket Ground,flat,50,30,75,78
+Tribhuvan University International Cricket Ground,seaming,75,25,65,68
+Al Amerat Cricket Ground Oman Cricket (Ministry Turf 2),flat,50,30,75,78
+Terdthai Cricket Ground,flat,50,30,75,78
+Pierre Werner Cricket Ground,slow,65,22,68,70
+Rawalpindi Cricket Stadium,batting friendly,40,35,72,70
+University Oval,seaming,70,15,65,68
+Sky Stadium,seaming,70,15,65,68
+Moara Vlasiei Cricket Ground,batting friendly,60,30,70,72
+Boland Park,seaming,70,18,66,69
+"Trent Bridge, Nottingham",seaming,70,18,65,68
+"Headingley, Leeds",seaming,75,15,65,68
+"Old Trafford, Manchester",seaming,75,15,65,68
+Narendra Modi Stadium,batting friendly,60,30,70,72
+"Sophia Gardens, Cardiff",seaming,75,15,65,68
+"The Rose Bowl, Southampton",seaming,70,15,65,68
+"The Wanderers Stadium, Johannesburg",bouncy,60,20,65,68
+"SuperSport Park, Centurion",seaming,70,18,66,69
+"The Village, Malahide, Dublin",seaming,70,15,65,68
+"Civil Service Cricket Club, Stormont, Belfast",slow,70,28,68,70
+"Coolidge Cricket Ground, Antigua",slow,70,28,68,70
+"Kensington Oval, Bridgetown, Barbados",seaming,75,25,65,68
+Wanderers,batting friendly,60,30,70,72
+"Wanderers Cricket Ground, Windhoek",seaming,70,18,66,69
+"Tribhuvan University International Cricket Ground, Kirtipur",seaming,75,25,65,68
+"R Premadasa Stadium, Colombo",slow,70,28,68,70
+"National Cricket Stadium, St George's, Grenada",slow,70,28,68,70
+"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",slow,70,28,68,70
+"Manuka Oval, Canberra",seaming,70,15,66,69
+"Scott Page Field, Vinor",batting friendly,60,30,70,72
+"National Sports Academy, Sofia",seaming,70,15,65,68
+Marsa Sports Club,slow,65,25,68,70
+Bayer Uerdingen Cricket Ground,seaming,75,15,65,68
+"Castle Avenue, Dublin",seaming,70,15,65,68
+"Bready Cricket Club, Magheramason, Bready",seaming,70,18,65,68
+"Svanholm Park, Brondby",seaming,75,15,65,68
+Gucherre Cricket Ground,slow,65,22,68,70
+Gahanga International Cricket Stadium. Rwanda,slow,65,22,68,70
+Kerava National Cricket Ground,seaming,70,15,65,68
+"Grange Cricket Club Ground, Raeburn Place, Edinburgh",seaming,70,15,65,68
+"Zayed Cricket Stadium, Abu Dhabi",flat,55,30,72,75
+Entebbe Cricket Oval,slow,70,28,68,70
+"Desert Springs Cricket Ground, Almeria",flat,50,30,75,78
+"Moara Vlasiei Cricket Ground, Ilfov County",batting friendly,60,30,70,72
+"Edgbaston, Birmingham",seaming,70,18,65,68
+"County Ground, Bristol",seaming,70,18,65,68
+"Sawai Mansingh Stadium, Jaipur",slow,60,30,65,67
+"JSCA International Stadium Complex, Ranchi",batting friendly,60,30,70,72
+"Eden Gardens, Kolkata",slow,60,28,65,67
+"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",batting friendly,60,30,70,72
+"Himachal Pradesh Cricket Association Stadium, Dharamsala",slow,60,20,65,67
+"Arun Jaitley Stadium, Delhi",batting friendly,60,30,70,72
+"Barabati Stadium, Cuttack",slow,60,30,65,67
+"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",slow,60,30,65,67
+"Saurashtra Cricket Association Stadium, Rajkot",batting friendly,60,30,70,72
+"M Chinnaswamy Stadium, Bangalore",batting friendly,60,28,65,67
+Happy Valley Ground,seaming,70,18,66,69
+"ICC Academy, Dubai",flat,50,30,75,78
+Integrated Polytechnic Regional Centre,seaming,70,18,66,69
+University of Lagos Cricket Oval,slow,70,28,68,70
+"West End Park International Cricket Stadium, Doha",flat,50,30,75,78
+"Sir Vivian Richards Stadium, North Sound, Antigua",slow,70,28,68,70
+"National Stadium, Karachi",slow,70,28,68,70
+"Gaddafi Stadium, Lahore",slow,70,28,68,70
+"Central Broward Regional Park Stadium Turf Ground, Lauderhill",slow,70,28,68,70
+"GMHBA Stadium, South Geelong, Victoria",seaming,70,18,66,69
+"Bellerive Oval, Hobart",seaming,70,15,65,68
+"Brisbane Cricket Ground, Woolloongabba, Brisbane",bouncy,60,20,65,68
+"United Cricket Club Ground, Windhoek",seaming,70,18,66,69
+"College Field, St Peter Port",seaming,70,15,65,68
+"Sportpark Westvliet, The Hague",seaming,75,15,65,68
+"Queens Sports Club, Bulawayo",seaming,70,18,66,69
+"Windsor Park, Roseau, Dominica",slow,70,28,68,70
+"Brian Lara Stadium, Tarouba, Trinidad",slow,70,28,68,70
+"Warner Park, Basseterre, St Kitts",slow,70,28,68,70
+"Sabina Park, Kingston, Jamaica",slow,70,28,68,70
+"Meersen, Gent",seaming,75,15,65,68
+"Royal Brussels Cricket Club Ground, Waterloo",seaming,75,15,65,68
+Tikkurila Cricket Ground,seaming,70,15,65,68
+"Indian Association Ground, Singapore",batting friendly,60,30,70,72
+Bulawayo Athletic Club,seaming,70,18,66,69
+"UKM-YSD Cricket Oval, Bangi",batting friendly,60,30,70,72
+"Bay Oval, Mount Maunganui",flat,60,20,72,75
+"McLean Park, Napier",seaming,70,15,65,68
+"Hagley Oval, Christchurch",seaming,70,15,65,68
+"Eden Park, Auckland",batting friendly,60,20,70,72
+"University Oval, Dunedin",seaming,70,15,65,68
+"John Davies Oval, Queenstown",seaming,70,15,65,68
+Lisicji Jarak Cricket Ground,slow,65,22,68,70
+"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",batting friendly,60,30,65,67
+"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",slow,60,30,65,67
+"Rajiv Gandhi International Stadium, Uppal, Hyderabad",batting friendly,60,30,70,72
+"Greenfield International Stadium, Thiruvananthapuram",flat,60,30,70,72
+"Barsapara Cricket Stadium, Guwahati",batting friendly,60,30,70,72
+"Holkar Cricket Stadium, Indore",slow,60,30,65,67
+"Gymkhana Club Ground, Nairobi",seaming,70,20,66,69
+"Willowmoore Park, Benoni",seaming,70,18,66,69
+"Independence Park, Port Vila",slow,70,28,68,70
+Sano International Cricket Ground,slow,70,28,68,70
+"Riverside Ground, Chester-le-Street",seaming,70,15,65,68
+"Wankhede Stadium, Mumbai",batting friendly,60,30,65,67
+"Maharashtra Cricket Association Stadium, Pune",batting friendly,60,30,70,72
+"Narendra Modi Stadium, Ahmedabad",batting friendly,60,30,70,72
+"Gahanga International Cricket Stadium, Rwanda",slow,65,22,68,70
+"Zahur Ahmed Chowdhury Stadium, Chattogram",slow,70,28,68,70
+"St Albans Club, Buenos Aires",seaming,70,18,66,69
+"Belgrano Athletic Club Ground, Buenos Aires",seaming,70,18,66,69
+"Hurlingham Club Ground, Buenos Aires",seaming,70,18,66,69
+"Mission Road Ground, Mong Kok, Hong Kong",seaming,80,28,65,68
+Santarem Cricket Ground,slow,70,28,68,70
+Europa Sports Complex,flat,60,20,72,75
+"Solvangs Park, Glostrup",seaming,75,15,65,68
+"Kingsmead, Durban",seaming,70,20,66,69
+"Sportpark Het Schootsveld, Deventer",seaming,75,15,65,68
+"Goldenacre, Edinburgh",seaming,70,15,65,68
+"Amini Park, Port Moresby",seaming,70,28,68,70
+"Bayuemas Oval, Kuala Lumpur",slow,70,28,68,70
+"Malahide, Dublin",seaming,70,15,65,68
+"GB Oval, Szodliget",batting friendly,60,20,70,72
+Zhejiang University of Technology Cricket Field,flat,60,20,72,75
+"National Stadium, Hamilton",seaming,70,15,65,68
+"Tafawa Balewa Square Cricket Oval, Lagos",slow,70,28,68,70
+Mulpani Cricket Ground,batting friendly,60,30,70,72
+St Georges Quilmes,slow,70,28,68,70
+New Wanderers Stadium,seaming,70,18,66,69
+Kennington Oval,seaming,70,15,65,68
+Western Australia Cricket Association Ground,bouncy,60,20,65,68
+Brabourne Stadium,batting friendly,60,30,70,72
+Jade Stadium,seaming,70,18,66,69
+Gymkhana Club Ground,seaming,70,20,66,69
+"Civil Service Cricket Club, Stormont",seaming,70,15,65,68
+Trent Bridge,seaming,70,18,65,68
+Maple Leaf North-West Ground,seaming,70,18,66,69
+AMI Stadium,seaming,70,18,66,69
+Providence Stadium,slow,70,28,68,70
+"Beausejour Stadium, Gros Islet",slow,70,28,68,70
+"Punjab Cricket Association Stadium, Mohali",batting friendly,60,30,65,67
+"Sir Vivian Richards Stadium, North Sound",slow,70,28,68,70
+OUTsurance Oval,seaming,70,18,66,69
+De Beers Diamond Oval,seaming,70,18,66,69
+Moses Mabhida Stadium,slow,70,28,68,70
+Stadium Australia,flat,60,20,72,75
+Shere Bangla National Stadium,slow,70,28,68,70
+"Mahinda Rajapaksa International Cricket Stadium, Sooriyawewa",slow,70,28,68,70
+Mombasa Sports Club Ground,slow,70,28,68,70
+ICC Global Cricket Academy,flat,60,30,70,72
+Subrata Roy Sahara Stadium,batting friendly,60,30,70,72
+"Sardar Patel Stadium, Motera",batting friendly,60,30,70,72
+Wanderers Cricket Ground,seaming,70,18,66,69
+Queens Sports Club,seaming,70,18,66,69
+"Arnos Vale Ground, Kingstown",slow,70,28,68,70
+Sylhet Stadium,slow,70,28,68,70
+"Windsor Park, Roseau",slow,70,28,68,70
+P Sara Oval,slow,70,28,68,70
+"Grange Cricket Club Ground, Raeburn Place",seaming,70,15,65,68
+Clontarf Cricket Club Ground,seaming,70,15,65,68
+Himachal Pradesh Cricket Association Stadium,slow,60,30,65,67
+Feroz Shah Kotla,slow,60,30,65,67
+"Mission Road Ground, Mong Kok",seaming,80,28,65,68
+Tony Ireland Stadium,seaming,70,18,66,69
+Sheikh Abu Naser Stadium,slow,70,28,68,70
+Khan Shaheb Osman Ali Stadium,slow,70,28,68,70
+Sydney Showground Stadium,flat,60,20,72,75
+Docklands Stadium,flat,60,20,72,75
+W.A.C.A. Ground,bouncy,60,20,65,68
+"Simonds Stadium, South Geelong, Victoria",seaming,70,18,66,69
+Traeger Park,seaming,70,18,66,69
+Aurora Stadium,flat,60,20,72,75
+Geelong Cricket Ground,seaming,70,18,66,69
+Ted Summerton Reserve,seaming,70,18,66,69
+International Sports Stadium,seaming,70,18,66,69
+Brisbane Cricket Ground,bouncy,60,20,65,68
+"Docklands Stadium, Melbourne",flat,60,20,72,75
+"Aurora Stadium, Launceston",flat,60,20,72,75
+"Junction Oval, Melbourne",seaming,70,18,66,69
+"International Sports Stadium, Coffs Harbour",seaming,70,18,66,69
+"Cazaly's Stadium, Cairns",flat,60,20,72,75
+"University of Tasmania Stadium, Launceston",seaming,70,15,65,68
+"Lavington Sports Oval, Albury",seaming,70,18,66,69
+"North Sydney Oval, Sydney",seaming,70,18,66,69
+"Zahur Ahmed Chowdhury Stadium, Chittagong",slow,70,28,68,70
+"Sheikh Abu Naser Stadium, Khulna",slow,70,28,68,70
+"MA Aziz Stadium, Chittagong",slow,70,28,68,70
+"Brian Lara Stadium, Tarouba",slow,70,28,68,70
+"Daren Sammy National Cricket Stadium, Gros Islet",slow,70,28,68,70
+"National Cricket Stadium, St George's",slow,70,28,68,70
+"Queen's Park Oval, Port of Spain, Trinidad",slow,70,28,68,70
+"St George's Park, Port Elizabeth",seaming,70,18,66,69
+"New Wanderers Stadium, Johannesburg",seaming,70,18,66,69
+"Boland Park, Paarl",seaming,70,18,66,69
+"Senwes Park, Potchefstroom",seaming,70,18,66,69
+"Newlands, Cape Town",seaming,70,18,66,69
+"Buffalo Park, East London",seaming,70,18,66,69
+"City Oval, Pietermaritzburg",seaming,70,18,66,69
+"Diamond Oval, Kimberley",seaming,70,18,66,69
+"Mangaung Oval, Bloemfontein",seaming,70,18,66,69
+"Chevrolet Park, Bloemfontein",seaming,70,18,66,69
+"De Beers Diamond Oval, Kimberley",seaming,70,18,66,69
+Sawai Mansingh Stadium,batting friendly,60,30,65,67
+Dr DY Patil Sports Academy,batting friendly,60,30,65,67
+"Brabourne Stadium, Mumbai",batting friendly,60,30,65,67
+Nehru Stadium,slow,60,30,65,67
+Shaheed Veer Narayan Singh International Stadium,slow,60,30,65,67
+MA Chidambaram Stadium,slow,60,30,65,67
+Rajiv Gandhi International Stadium,batting friendly,60,30,65,67
+Punjab Cricket Association IS Bindra Stadium,batting friendly,60,30,65,67
+"MA Chidambaram Stadium, Chepauk, Chennai",slow,60,30,65,67
+"Dr DY Patil Sports Academy, Mumbai",batting friendly,60,30,65,67
+"M Chinnaswamy Stadium, Bengaluru",batting friendly,60,28,65,67
